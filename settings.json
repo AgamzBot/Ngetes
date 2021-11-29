@@ -1,7 +1,7 @@
 {
     "self_mode": false,
 	"autobio": true,
-	"antihidetag": true,
+	"antihidetag": false,
 	"user_register": true,
 	"anti_delete" : true,
 	"anticall": true,
@@ -13,5 +13,6 @@
 	"ownername": "Agamz",
 	"botname":"Agamz-Bot",
 	"thumb":"thumbnail_1.jpg",
-	"fake": " 「  AgamzBot  」\nCreated By @Agamzxzy"
+        "fakethumb":"thumbnail_1.jpg",
+	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @Agamzxzy"
 }
